@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Getup",
+      "day": "5AM",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Walk ",
+      "day": "Till 7AM",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "Breakfast ",
+      "day": "8AM",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
